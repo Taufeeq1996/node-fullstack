@@ -1,0 +1,20 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "full stack",
+  "main": "server.js",
+  "type":"module", 
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [
+    "full-stack",
+    "node",
+    "express"
+  ],
+  "author": "Mohd Taufeeq Khan",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
